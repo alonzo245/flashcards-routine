@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "idb": "^8.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -32,7 +33,7 @@
     ]
   },
   "browserslist": {
-    "production": [ 
+    "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
